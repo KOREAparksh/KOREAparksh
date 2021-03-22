@@ -30,6 +30,9 @@
 
 ### 📕그동안
 
+- 우아한테크코스 3기 선발과정 (20.11.25 ~ 20.12.16)
+- 42서울 라피신(1달 선발과정) (21.02.15 ~ 21.03.19)
+
 ### 🛠스택
 
 - <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1592962806/noticon/yllouhpfzytowgn4rksx.png" width="30px">  <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1569171479/noticon/jmeuekc1zlge9wmoiw8h.png" width="30px"> <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png" width="30px"> <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png" width="30px">  <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567087457/noticon/nymfpvcfrg5jlfb2bc1a.png" width="30px"> 
