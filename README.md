@@ -57,5 +57,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-git test
-git test2
