@@ -4,11 +4,11 @@
 
 </div>
 
-[이력서](https://www.notion.so/parkseunghan/_-14895b5a52704650a5ffd740113436d9)
+<!-- [이력서](https://www.notion.so/parkseunghan/_-14895b5a52704650a5ffd740113436d9) -->
 
 
 
-[포트폴리오](https://www.notion.so/parkseunghan/c0b5f314f2f74da18d92d570221b36a3?v=5606e2be11354a438c72f88bf5e149e7)
+<!-- [포트폴리오](https://www.notion.so/parkseunghan/c0b5f314f2f74da18d92d570221b36a3?v=5606e2be11354a438c72f88bf5e149e7) -->
 
 ### 👨🏻‍🎓 저는
 
