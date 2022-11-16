@@ -11,7 +11,7 @@
 <!-- [포트폴리오](https://www.notion.so/parkseunghan/c0b5f314f2f74da18d92d570221b36a3?v=5606e2be11354a438c72f88bf5e149e7) -->
 
 
-[링크드인](https://www.linkedin.com/in/%EC%8A%B9%ED%95%9C-%EB%B0%95-2a7247232/)
+[Linkedin](https://www.linkedin.com/in/%EC%8A%B9%ED%95%9C-%EB%B0%95-2a7247232/)
 
 ### 👨🏻‍🎓 저는
 
