@@ -39,7 +39,7 @@
 
 ### 🛠스택
 
-- <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1592962806/noticon/yllouhpfzytowgn4rksx.png" width="30px">  <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1569171479/noticon/jmeuekc1zlge9wmoiw8h.png" width="30px"> <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png" width="30px"> <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png" width="30px">  <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567087457/noticon/nymfpvcfrg5jlfb2bc1a.png" width="30px"> 
+- <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1592962806/noticon/yllouhpfzytowgn4rksx.png" width="30px">  <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1569171479/noticon/jmeuekc1zlge9wmoiw8h.png" width="30px"> <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png" width="30px">  <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567087457/noticon/nymfpvcfrg5jlfb2bc1a.png" width="30px"> 
 
 - <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919057/noticon/j8sgrekdjixmpgdd7l9b.png" width="30px">  <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919318/noticon/pjnpsszivn2jjfgspqj7.png" width="30px"><img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008187/noticon/m4oad4rbf65fjszx0did.png" width="30px">
 
