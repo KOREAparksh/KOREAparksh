@@ -39,11 +39,12 @@
 
 ### 🛠스택
 
-- <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1592962806/noticon/yllouhpfzytowgn4rksx.png" width="30px">  <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1569171479/noticon/jmeuekc1zlge9wmoiw8h.png" width="30px"> <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png" width="30px">  <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567087457/noticon/nymfpvcfrg5jlfb2bc1a.png" width="30px"> 
+- <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1592962806/noticon/yllouhpfzytowgn4rksx.png" width="30px">  <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1569171479/noticon/jmeuekc1zlge9wmoiw8h.png" width="30px"> <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png" width="30px"> <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567399456/noticon/ynev3ykd0musp4yh5xs7.png" width="30px"> <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567087457/noticon/nymfpvcfrg5jlfb2bc1a.png" width="30px"> 
 
 - <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919057/noticon/j8sgrekdjixmpgdd7l9b.png" width="30px">  <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919318/noticon/pjnpsszivn2jjfgspqj7.png" width="30px"><img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008187/noticon/m4oad4rbf65fjszx0did.png" width="30px">
 
-
+- mvc, mvvm
+- bloc, getx
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KOREAparksh&hide=issues,stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOREAparksh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
