@@ -19,7 +19,6 @@
   - 🖥디지털콘텐츠학과(소프트웨어학과) (주)
   - 📚법학과 (복)
 - 기술을 많이 아는 것보단 잘 활용하는 것이 중요하다고 생각합니다.
-- 안드로이드와 플러터를 주로 사용합니다.
 - 컴퓨터 언어에 종속되고 싶지 않아요. 언어보단 설계와 구조에 집중하려 합니다.
 
 ### 🎳취미흥미
@@ -32,20 +31,10 @@
 - 펄어비스 테크 인턴십 (23.03.27 ~ 23.05.19)
 - 유니크굿컴퍼니 (23.07.10 ~ )
 
-### 📕그동안
+### 📕교육
 
-- 42서울 본과정 (21.05.03 ~ )
-
-### 🛠스택
-
-- <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1592962806/noticon/yllouhpfzytowgn4rksx.png" width="30px">  <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1569171479/noticon/jmeuekc1zlge9wmoiw8h.png" width="30px"> <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png" width="30px"> <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567399456/noticon/ynev3ykd0musp4yh5xs7.png" width="30px"> <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567087457/noticon/nymfpvcfrg5jlfb2bc1a.png" width="30px"> 
-
-- <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919057/noticon/j8sgrekdjixmpgdd7l9b.png" width="30px">  <img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919318/noticon/pjnpsszivn2jjfgspqj7.png" width="30px"><img src = "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008187/noticon/m4oad4rbf65fjszx0did.png" width="30px">
-
-- mvc, mvvm
-- bloc, getx, riverpod
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KOREAparksh&hide=issues,stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOREAparksh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 42서울 본과정 (21.05.03 ~ 25.01.10)
+- 42서울 알럼나이 (25.01.10 ~ )
 
 <!--
 **KOREAparksh/KOREAparksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
